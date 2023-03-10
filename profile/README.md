@@ -13,6 +13,7 @@ The dqualizer approach consists of six components with different responsibilitie
 | **Component** | **Short Description** |
 |---------------|-----------------------|
 | [dqanalyzer](https://github.com/dqualizer/dqanalyzer)   | tbd                   |
+| [dqcockpit](https://github.com/dqualizer/dqcockpit)   | tbd                   |
 | [dqedit](https://github.com/dqualizer/dqedit)   | tbd                   |
 | [dqtranslator](https://github.com/dqualizer/dqtranslator)   | tbd                   |
 | [dqexec](https://github.com/dqualizer/dqexec)   | tbd                   |
