@@ -28,6 +28,6 @@ If you want to refer to dqualizer in scientific papers, please use the following
       year         = "2023",
       booktitle    = "Companion of the 2023 ACM/SPEC International Conference on Performance Engineering (ICPE '23 Companion)",
       doi          = "10.1145/3578245.3584853",
-      publisher    = “ACM”
+      publisher    = "ACM"
     }
 
