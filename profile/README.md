@@ -20,7 +20,7 @@ The dqualizer approach consists of six components with different responsibilitie
 | [dqexec](https://github.com/dqualizer/dqexec)   |  The dqexec component executes the RQA configuration by utilizing state-of-the-art monitoring, load testing, and resilience testing tooling. |
 | [dqlang](https://github.com/dqualizer/dqlang)   | The dqlang is a collection of languages utilized by dqualizer e.g., the DST extension for domain-level RQA specification or the language for defining mappings in dqedit.  |
 
-For a detailed description of the architecture, we refer to our [arc42 document](https://github.com/dqualizer/dqualizer/tree/main/docs/asciidoc). 
+For a detailed description of the architecture, we refer to our [arc42 document](https://dqualizer.github.io/dqualizer). 
 
 ## Cite
 If you want to refer to dqualizer in scientific papers, please use the following publication:
