@@ -13,7 +13,7 @@ The dqualizer approach consists of six components with different responsibilitie
 | **Component** | **Short Description** |
 |---------------|-----------------------|
 | [dqualizer](https://github.com/dqualizer/dqualizer)   | The main repository contains elements that are related to all components, e.g., documentation.  |
-| [dqanalyzer](https://github.com/dqualizer/dqanalyzer)   | The dqanalyzer component enables domain experts to specify and perform RQA without profound knowledge of the underlying technical infrastructure and analysis tools, e.g., by annotating elements in domain stories.  |
+| [dqanalyzer](https://github.com/dqualizer/dqanalyzer2)   | The dqanalyzer component enables domain experts to specify and perform RQA without profound knowledge of the underlying technical infrastructure and analysis tools.  |
 | [dqcockpit](https://github.com/dqualizer/dqcockpit)   |  Dqcockpit is a dashboard visualizing the results of executed RQAs. |
 | [dqedit](https://github.com/dqualizer/dqedit)   | The dqedit component is the editor for the mapping necessary to translate domain questions / RQA definitions to technical RQA configurations. |
 | [dqtranslator](https://github.com/dqualizer/dqtranslator)   | Dqtranslator maps (domain) RQA definitions to technical RQA configurations that can be executed by dqexec. It also maps the technical results back to the domain level. |
