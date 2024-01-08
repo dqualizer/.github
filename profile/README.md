@@ -18,7 +18,8 @@ The dqualizer approach consists of six components with different responsibilitie
 | [dqedit](https://github.com/dqualizer/dqedit)   | The dqedit component is the editor for the mapping necessary to translate domain questions / RQA definitions to technical RQA configurations. |
 | [dqtranslator](https://github.com/dqualizer/dqtranslator)   | Dqtranslator maps (domain) RQA definitions to technical RQA configurations that can be executed by dqexec. It also maps the technical results back to the domain level. |
 | [dqexec](https://github.com/dqualizer/dqexec)   |  The dqexec component executes the RQA configuration by utilizing state-of-the-art monitoring, load testing, and resilience testing tooling. |
-| [dqlang](https://github.com/dqualizer/dqlang)   | The dqlang is a collection of languages utilized by dqualizer e.g., the DST extension for domain-level RQA specification or the language for defining mappings in dqedit.  |
+| [dqlang](https://github.com/dqualizer/dqlang)   | The dqlang is a collection of languages utilized by dqualizer e.g., the DST extension for domain-level RQA specification or the language for defining mappings in dqedit. |
+| [dqapi](https://github.com/dqualizer/dqapi)   | The dqapi is a REST Api, which is responsible to execute CRUD Operations on different dqualizer artifacts. It is used to manage RQAs and DAMs in the mongoDB.  |
 
 For a detailed description of the architecture, we refer to our [arc42 document](https://dqualizer.github.io/dqualizer). 
 
